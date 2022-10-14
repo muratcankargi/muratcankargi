@@ -1,4 +1,4 @@
- 👋 Hi, I’m @muratcankargi
+ 👋 Hi, I’m Murat Can Kargı
  
  🌱 I’m currently learning Java and Python
  
