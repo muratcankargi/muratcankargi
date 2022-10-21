@@ -4,7 +4,9 @@
  
  -📫 muratcankargi@hotmail.com
  
- 👉 [![](https://i.stack.imgur.com/gVE0j.png)My Linkedin](www.linkedin.com/in/muratcankargi/)
+  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://shields.io/) [My Linkedin](https://www.linkedin.com/in/muratcankargi/)
+
 
 <!---
 muratcankargi/muratcankargi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
