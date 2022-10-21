@@ -1,8 +1,8 @@
- 👋 Hi, I’m Murat Can Kargı
+ -👋 Hi, I’m Murat Can Kargı
  
- 🌱 I’m currently learning Java and Python
+ -🌱 I’m currently learning Java and Python
  
- 📫 muratcankargi@hotmail.com
+ -📫 muratcankargi@hotmail.com
  
  👉 https://www.linkedin.com/in/muratcankargi
 <!---
