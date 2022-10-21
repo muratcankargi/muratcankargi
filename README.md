@@ -4,7 +4,7 @@
  
  -📫 muratcankargi@hotmail.com
  
- 👉 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)My LinkedIn](www.linkedin.com/in/muratcankargi/)
+ 👉 [![](https://i.stack.imgur.com/gVE0j.png)My Linkedin](www.linkedin.com/in/muratcankargi/)
 
 <!---
 muratcankargi/muratcankargi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
