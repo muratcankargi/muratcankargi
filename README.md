@@ -1,9 +1,11 @@
-<div dir="rtl">
-<img align="right" display="flex" src="https://komarev.com/ghpvc/?username=muratcankargi">
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murat Can Kargı
 =======================================================================================================================================
 
+<div dir="rtr">
+<img align="right" display="flex" src="https://komarev.com/ghpvc/?username=muratcankargi">
+
+
+<div dir="ltr">
 * 🌍  I'm based in Turkey,Istanbul
 * ✉️  You can contact me at [muratcankargi@hotmail.com](mailto:muratcankargi@hotmail.com)
 * 🧠  I'm learning Java and Python
