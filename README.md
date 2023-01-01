@@ -5,12 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="right" display="flex" src="https://komarev.com/ghpvc/?username=muratcankargi">
 
 
-<div dir="ltr">
-  <p>
+
 * 🌍  I'm based in Turkey,Istanbul
 * ✉️  You can contact me at [muratcankargi@hotmail.com](mailto:muratcankargi@hotmail.com)
 * 🧠  I'm learning Java and Python
-  </p>
+  
 ### Skills
 
 
