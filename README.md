@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="right" style="float:right;">
 ![](https://komarev.com/ghpvc/?username=muratcankargi&color=blue)
-<\p>
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
