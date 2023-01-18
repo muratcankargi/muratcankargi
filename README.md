@@ -35,5 +35,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
   ![Murat Can Kargı's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratcankargi&show_icons=true&theme=dark)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcankargi&layout=compact)](https://github.com/muratcankargi/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcankargi&layout=compact&theme=dark)](https://github.com/muratcankargi/)
 
