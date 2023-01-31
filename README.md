@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Turkey,Istanbul
 * ✉️  You can contact me at [muratcankargi@hotmail.com](mailto:muratcankargi@hotmail.com)
-* 🧠  I'm learning Java and Python
+* 🧠  I'm learning Java
   
 ### Skills
 
